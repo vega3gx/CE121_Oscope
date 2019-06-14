@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="oscope-000\oscope\TopDesign">
+<ExpandedNodeIds>
+<v>oscope-000</v>
+<v>oscope-000\lab5.1</v>
+<v>oscope-000\oscope</v>
+<v>oscope-000\oscope\TopDesign</v>
+<v>oscope-000\oscope\oscope.cydwr</v>
+<v>oscope-000\oscope\oscope.cydwr\Pins</v>
+<v>oscope-000\oscope\oscope.cydwr\Analog</v>
+<v>oscope-000\oscope\oscope.cydwr\Clocks</v>
+<v>oscope-000\oscope\oscope.cydwr\Interrupts</v>
+<v>oscope-000\oscope\oscope.cydwr\DMA</v>
+<v>oscope-000\oscope\oscope.cydwr\System</v>
+<v>oscope-000\oscope\oscope.cydwr\Directives</v>
+<v>oscope-000\oscope\oscope.cydwr\Flash Security</v>
+<v>oscope-000\oscope\oscope.cydwr\EEPROM</v>
+<v>oscope-000\oscope\Header Files</v>
+<v>oscope-000\oscope\Header Files\cyapicallbacks.h</v>
+<v>oscope-000\oscope\Source Files</v>
+<v>oscope-000\oscope\Source Files\main.c</v>
+<v>oscope-000\oscope\Generated_Source</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>oscope-000</v>
+<v>oscope-000\lab5.1</v>
+<v>oscope-000\oscope</v>
+<v>oscope-000\oscope\TopDesign</v>
+<v>oscope-000\oscope\oscope.cydwr</v>
+<v>oscope-000\oscope\oscope.cydwr\Pins</v>
+<v>oscope-000\oscope\oscope.cydwr\Analog</v>
+<v>oscope-000\oscope\oscope.cydwr\Clocks</v>
+<v>oscope-000\oscope\oscope.cydwr\Interrupts</v>
+<v>oscope-000\oscope\oscope.cydwr\DMA</v>
+<v>oscope-000\oscope\oscope.cydwr\System</v>
+<v>oscope-000\oscope\oscope.cydwr\Directives</v>
+<v>oscope-000\oscope\oscope.cydwr\Flash Security</v>
+<v>oscope-000\oscope\oscope.cydwr\EEPROM</v>
+<v>oscope-000\oscope\Header Files</v>
+<v>oscope-000\oscope\Header Files\cyapicallbacks.h</v>
+<v>oscope-000\oscope\Source Files</v>
+<v>oscope-000\oscope\Source Files\main.c</v>
+<v>oscope-000\oscope\Generated_Source</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\ADC_SAR_1</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\ADC_SAR_1_Bypass</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\ADC_SAR_1_IRQ</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\ADC_SAR_1_theACLK</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\ADC_SAR_2</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\ADC_SAR_2_Bypass</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\ADC_SAR_2_IRQ</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\ADC_SAR_2_theACLK</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\CH1_DMA_SWAP</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\CH2_DMA_SWAP</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\Clock_1</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\cy_boot</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\DMA_1</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\DMA_2</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\LCD_Char_1</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\LCD_Char_1_LCDPort</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\Probe_1</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\Probe_2</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\USBFS</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\USBFS_Dm</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\USBFS_Dp</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\USBFS_ep1</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\USBFS_ep2</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\cydevice.h</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\cydevice_trm.h</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\cydevicegnu.inc</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\cydeviceiar.inc</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\cydeviceiar_trm.inc</v>
+<v>oscope-000\oscope\Generated_Source\PSoC5\cydevicerv.inc</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>oscope-000</v>
+<v>oscope-000\lab5.1</v>
+<v>oscope-000\oscope</v>
+<v>oscope-000\oscope\TopDesign</v>
+<v>oscope-000\oscope\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>oscope-000</v>
+<v>oscope-000\lab5.1</v>
+<v>oscope-000\oscope</v>
+<v>oscope-000\oscope\TopDesign</v>
+<v>oscope-000\oscope\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>oscope-000</v>
+<v>oscope-000\lab5.1</v>
+<v>oscope-000\oscope</v>
+<v>oscope-000\oscope\CortexM3</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_Bypass.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_INT.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_IRQ.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_PM.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_theACLK.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_2.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_2_Bypass.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_2_INT.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_2_IRQ.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_2_PM.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_2_theACLK.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\CH1_DMA_SWAP.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\CH2_DMA_SWAP.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\DMA_1_dma.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\DMA_2_dma.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_1.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_1_LCDPort.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_1_PM.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\Probe_1.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\Probe_2.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_audio.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_boot.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_cdc.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_cls.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_descr.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_Dm.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_Dp.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_drv.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_ep1_dma.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_ep2_dma.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_episr.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_hid.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_midi.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_msc.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_pm.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_std.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_vnd.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\oscope.elf</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\oscope.hex</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\oscope.map</v>
+<v>oscope-000\oscope\oscope.gpdsc</v>
+<v>oscope-000\oscope\oscope.rpt</v>
+<v>oscope-000\oscope\oscope_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>oscope-000</v>
+<v>oscope-000\lab5.1</v>
+<v>oscope-000\oscope</v>
+<v>oscope-000\oscope\CortexM3</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_Bypass.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_INT.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_IRQ.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_PM.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_theACLK.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_2.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_2_Bypass.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_2_INT.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_2_IRQ.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_2_PM.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_2_theACLK.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\CH1_DMA_SWAP.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\CH2_DMA_SWAP.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\DMA_1_dma.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\DMA_2_dma.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_1.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_1_LCDPort.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_1_PM.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\Probe_1.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\Probe_2.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_audio.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_boot.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_cdc.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_cls.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_descr.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_Dm.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_Dp.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_drv.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_ep1_dma.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_ep2_dma.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_episr.lst</v>
+<v>oscope-000\oscope\CortexM3\ARM_GCC_541\Debug\Listing Files\USBFS_hid.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>oscope-000</v>
+<v>oscope-000\oscope</v>
+<v>oscope-000\oscope\PSoC 5LP Architecture TRM</v>
+<v>oscope-000\oscope\CY8C58LP Family Datasheet</v>
+<v>oscope-000\oscope\System Reference Guides</v>
+<v>oscope-000\oscope\System Reference Guides\cy_boot_v5_70</v>
+<v>oscope-000\oscope\ADC_SAR_v3_10</v>
+<v>oscope-000\oscope\ADC_SAR_v3_10\ADC_SAR_v3_10.pdf</v>
+<v>oscope-000\oscope\CharLCD_v2_20.pdf</v>
+<v>oscope-000\oscope\cy_clock_v2_20.pdf</v>
+<v>oscope-000\oscope\cy_dma_v1_70</v>
+<v>oscope-000\oscope\cy_dma_v1_70\cy_dma_v1_70.pdf</v>
+<v>oscope-000\oscope\cy_isr_v1_70</v>
+<v>oscope-000\oscope\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>oscope-000\oscope\cy_pins_v2_20</v>
+<v>oscope-000\oscope\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>oscope-000\oscope\USBFS_v3_10.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>oscope-000</v>
+<v>oscope-000\oscope</v>
+<v>oscope-000\oscope\PSoC 5LP Architecture TRM</v>
+<v>oscope-000\oscope\CY8C58LP Family Datasheet</v>
+<v>oscope-000\oscope\System Reference Guides</v>
+<v>oscope-000\oscope\System Reference Guides\cy_boot_v5_70</v>
+<v>oscope-000\oscope\ADC_SAR_v3_10</v>
+<v>oscope-000\oscope\ADC_SAR_v3_10\ADC_SAR_v3_10.pdf</v>
+<v>oscope-000\oscope\CharLCD_v2_20.pdf</v>
+<v>oscope-000\oscope\cy_clock_v2_20.pdf</v>
+<v>oscope-000\oscope\cy_dma_v1_70</v>
+<v>oscope-000\oscope\cy_dma_v1_70\cy_dma_v1_70.pdf</v>
+<v>oscope-000\oscope\cy_isr_v1_70</v>
+<v>oscope-000\oscope\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>oscope-000\oscope\cy_pins_v2_20</v>
+<v>oscope-000\oscope\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>oscope-000\oscope\USBFS_v3_10.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded>
+<project v="..\..\..\..\labs\lab5\PSoC\lab5.1.cydsn\lab5.1.cyprj" />
+</Unloaded>
+<OpenDocs>
+<name v=".\TopDesign\TopDesign.cysch" />
+<name v=".\main.c" />
+<name v=".\oscope.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1439, 831" SelectedTabbedMdiWindow="1a04d38d-c5ee-414d-9285-975ae14e6a5e"><DocumentWindow Key="C:\Users\aamwood\Desktop\aamwood\project\PSoC\oscilloscope\oscope.cydsn\TopDesign\TopDesign.cysch" Guid="1a04d38d-c5ee-414d-9285-975ae14e6a5e" /><DocumentWindow Key="C:\Users\aamwood\Desktop\aamwood\project\PSoC\oscilloscope\oscope.cydsn\main.c" Guid="c5245c23-7f59-4aff-9ff8-b061b87eadfc" /><DocumentWindow Key="C:\Users\aamwood\Desktop\aamwood\project\PSoC\oscilloscope\oscope.cydsn\oscope.cydwr" Guid="8a1848e2-1f06-41e9-a826-b54fd8dec0c8" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="0e3a4416-49b5-470d-bcae-abf1cf6bdf90" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
